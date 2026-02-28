@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/app/sql/server_key_relation.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/app/sql/server_stats.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/app/sql/sys_menu.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/app/sql/sys_user.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/app/sql/user_decrypt_log.sql" dialect="GenericSQL" />
+  </component>
+</project>
